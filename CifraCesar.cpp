@@ -1,8 +1,6 @@
 #include <gtk/gtk.h>
-#include <string>
-#include <cstring>
 #include <iomanip>
-using namespace std;
+using std::string;
 
 const char Alfabeto[26]={'A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z'}; 
 
